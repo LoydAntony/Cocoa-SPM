@@ -1,0 +1,16 @@
+PODS:
+  - Cocoa-SPM (0.1.0)
+
+DEPENDENCIES:
+  - Cocoa-SPM (from `../`)
+
+EXTERNAL SOURCES:
+  Cocoa-SPM:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Cocoa-SPM: 6ec69d57286ef4c049afddd93862640f3bfbb8bf
+
+PODFILE CHECKSUM: 936bb9cf44fa4f3cde2ed07906b737f89261617c
+
+COCOAPODS: 1.11.3

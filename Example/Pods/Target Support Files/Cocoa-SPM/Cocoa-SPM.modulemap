@@ -1,0 +1,6 @@
+framework module Cocoa_SPM {
+  umbrella header "Cocoa-SPM-umbrella.h"
+
+  export *
+  module * { export * }
+}
