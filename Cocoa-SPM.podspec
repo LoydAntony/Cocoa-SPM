@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Cocoa-SPM'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of Cocoa-SPM.'
+  s.version          = '0.2.0'
+  s.summary          = 'Dependency available in Cocoa-SPM.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -30,7 +30,22 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'Cocoa-SPM/Classes/**/*'
+  s.source_files = 'Cocoa-SPM/*'
+  
+  s.subspec 'Basic' do |sp|
+    sp.source_files = 'Cocoa-SPM/Basic/**/*'
+  end
+  
+  s.subspec 'Ads' do |sp|
+    sp.source_files = 'Cocoa-SPM/Ads/**/*'
+    sp.dependency 'Cocoa-SPM/Basic'
+  end
+  
+  s.subspec 'Casting' do |sp|
+    sp.source_files = 'Cocoa-SPM/Casting/**/*'
+    sp.dependency 'Cocoa-SPM/Basic'
+  end
+  
   
   # s.resource_bundles = {
   #   'Cocoa-SPM' => ['Cocoa-SPM/Assets/*.png']

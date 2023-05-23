@@ -1,7 +1,7 @@
 {
   "name": "Cocoa-SPM",
   "version": "0.1.0",
-  "summary": "A short description of Cocoa-SPM.",
+  "summary": "Dependency available in Cocoa-SPM.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/LoydAntony/Cocoa-SPM",
   "license": {
@@ -18,5 +18,29 @@
   "platforms": {
     "ios": "10.0"
   },
-  "source_files": "Cocoa-SPM/Classes/**/*"
+  "source_files": "Cocoa-SPM/*",
+  "subspecs": [
+    {
+      "name": "Basic",
+      "source_files": "Cocoa-SPM/Basic/**/*"
+    },
+    {
+      "name": "Ads",
+      "source_files": "Cocoa-SPM/Ads/**/*",
+      "dependencies": {
+        "Cocoa-SPM/Basic": [
+
+        ]
+      }
+    },
+    {
+      "name": "Casting",
+      "source_files": "Cocoa-SPM/Casting/**/*",
+      "dependencies": {
+        "Cocoa-SPM/Basic": [
+
+        ]
+      }
+    }
+  ]
 }

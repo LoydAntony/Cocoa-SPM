@@ -7,13 +7,23 @@
 //
 
 import UIKit
+import Cocoa_SPM
 
 class ViewController: UIViewController {
 
+    @IBOutlet private weak var mainView: UIView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+
+        mainView.backgroundColor = .green
+        mainView.addShadow()
+        mainView.makeRounded()
+        mainView.addBorderLine()
+        mainView.loyd_bhai()
+        
     }
+    
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()

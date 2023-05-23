@@ -1,5 +1,5 @@
 import XCTest
-import Cocoa-SPM
+import Cocoa_SPM
 
 class Tests: XCTestCase {
     

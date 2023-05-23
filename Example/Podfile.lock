@@ -1,5 +1,13 @@
 PODS:
-  - Cocoa-SPM (0.1.0)
+  - Cocoa-SPM (0.1.0):
+    - Cocoa-SPM/Ads (= 0.1.0)
+    - Cocoa-SPM/Basic (= 0.1.0)
+    - Cocoa-SPM/Casting (= 0.1.0)
+  - Cocoa-SPM/Ads (0.1.0):
+    - Cocoa-SPM/Basic
+  - Cocoa-SPM/Basic (0.1.0)
+  - Cocoa-SPM/Casting (0.1.0):
+    - Cocoa-SPM/Basic
 
 DEPENDENCIES:
   - Cocoa-SPM (from `../`)
@@ -9,7 +17,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Cocoa-SPM: 6ec69d57286ef4c049afddd93862640f3bfbb8bf
+  Cocoa-SPM: c65638c9379654edbed0026e93c285dc9a5f881c
 
 PODFILE CHECKSUM: 936bb9cf44fa4f3cde2ed07906b737f89261617c
 
