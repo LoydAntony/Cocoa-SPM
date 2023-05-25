@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "641a1f86c82d0632d2cfe3d2ec6cc16852092fad563c18a6ef4fbdee002ee192"
+build_start_time: [1685012184, 561931133]
+build_end_time: [1685012191, 243122100]
+inputs:
+  "/Users/loydantonyrebeiro/Documents/Cocoa-SPM/Tests/Cocoa-SPMTests/Cocoa_SPMTests.swift": [1685009280, 66219091]

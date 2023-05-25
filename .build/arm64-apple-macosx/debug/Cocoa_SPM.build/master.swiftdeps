@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "4ea52ef8ba4261db7a0e551641e69b86cf8b010a5d1c8af17309d4fc1f69659f"
+build_start_time: [1685012171, 373085021]
+build_end_time: [1685012171, 536399841]
+inputs:
+  "/Users/loydantonyrebeiro/Documents/Cocoa-SPM/Sources/Cocoa-SPM/Ads/videoAdsController.swift": [1685012168, 93662738]
+  "/Users/loydantonyrebeiro/Documents/Cocoa-SPM/Sources/Cocoa-SPM/Cocoa_SPM.swift": [1685009280, 65959215]
+  "/Users/loydantonyrebeiro/Documents/Cocoa-SPM/Sources/Cocoa-SPM/UIView-Extension.swift": [1685012154, 897550344]

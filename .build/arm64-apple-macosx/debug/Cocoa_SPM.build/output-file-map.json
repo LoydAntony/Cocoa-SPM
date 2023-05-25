@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/loydantonyrebeiro/Documents/Cocoa-SPM/.build/arm64-apple-macosx/debug/Cocoa_SPM.build/master.swiftdeps"
+  },
+  "/Users/loydantonyrebeiro/Documents/Cocoa-SPM/Sources/Cocoa-SPM/Ads/videoAdsController.swift": {
+    "dependencies": "/Users/loydantonyrebeiro/Documents/Cocoa-SPM/.build/arm64-apple-macosx/debug/Cocoa_SPM.build/Cocoa-SPM/Ads/videoAdsController.d",
+    "object": "/Users/loydantonyrebeiro/Documents/Cocoa-SPM/.build/arm64-apple-macosx/debug/Cocoa_SPM.build/Cocoa-SPM/Ads/videoAdsController.swift.o",
+    "swiftmodule": "/Users/loydantonyrebeiro/Documents/Cocoa-SPM/.build/arm64-apple-macosx/debug/Cocoa_SPM.build/Cocoa-SPM/Ads/videoAdsController~partial.swiftmodule",
+    "swift-dependencies": "/Users/loydantonyrebeiro/Documents/Cocoa-SPM/.build/arm64-apple-macosx/debug/Cocoa_SPM.build/Cocoa-SPM/Ads/videoAdsController.swiftdeps"
+  },
+  "/Users/loydantonyrebeiro/Documents/Cocoa-SPM/Sources/Cocoa-SPM/Cocoa_SPM.swift": {
+    "dependencies": "/Users/loydantonyrebeiro/Documents/Cocoa-SPM/.build/arm64-apple-macosx/debug/Cocoa_SPM.build/Cocoa-SPM/Cocoa_SPM.d",
+    "object": "/Users/loydantonyrebeiro/Documents/Cocoa-SPM/.build/arm64-apple-macosx/debug/Cocoa_SPM.build/Cocoa-SPM/Cocoa_SPM.swift.o",
+    "swiftmodule": "/Users/loydantonyrebeiro/Documents/Cocoa-SPM/.build/arm64-apple-macosx/debug/Cocoa_SPM.build/Cocoa-SPM/Cocoa_SPM~partial.swiftmodule",
+    "swift-dependencies": "/Users/loydantonyrebeiro/Documents/Cocoa-SPM/.build/arm64-apple-macosx/debug/Cocoa_SPM.build/Cocoa-SPM/Cocoa_SPM.swiftdeps"
+  },
+  "/Users/loydantonyrebeiro/Documents/Cocoa-SPM/Sources/Cocoa-SPM/UIView-Extension.swift": {
+    "dependencies": "/Users/loydantonyrebeiro/Documents/Cocoa-SPM/.build/arm64-apple-macosx/debug/Cocoa_SPM.build/Cocoa-SPM/UIView-Extension.d",
+    "object": "/Users/loydantonyrebeiro/Documents/Cocoa-SPM/.build/arm64-apple-macosx/debug/Cocoa_SPM.build/Cocoa-SPM/UIView-Extension.swift.o",
+    "swiftmodule": "/Users/loydantonyrebeiro/Documents/Cocoa-SPM/.build/arm64-apple-macosx/debug/Cocoa_SPM.build/Cocoa-SPM/UIView-Extension~partial.swiftmodule",
+    "swift-dependencies": "/Users/loydantonyrebeiro/Documents/Cocoa-SPM/.build/arm64-apple-macosx/debug/Cocoa_SPM.build/Cocoa-SPM/UIView-Extension.swiftdeps"
+  }
+}

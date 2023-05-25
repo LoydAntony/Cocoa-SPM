@@ -1,0 +1,4 @@
+module Cocoa_SPM {
+    header "/Users/loydantonyrebeiro/Documents/Cocoa-SPM/.build/arm64-apple-macosx/debug/Cocoa_SPM.build/Cocoa-SPM-Swift.h"
+    requires objc
+}

@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/loydantonyrebeiro/Documents/Cocoa-SPM/.build/arm64-apple-macosx/debug/Cocoa_SPMTests.build/master.swiftdeps"
+  },
+  "/Users/loydantonyrebeiro/Documents/Cocoa-SPM/Tests/Cocoa-SPMTests/Cocoa_SPMTests.swift": {
+    "dependencies": "/Users/loydantonyrebeiro/Documents/Cocoa-SPM/.build/arm64-apple-macosx/debug/Cocoa_SPMTests.build/Cocoa-SPMTests/Cocoa_SPMTests.d",
+    "object": "/Users/loydantonyrebeiro/Documents/Cocoa-SPM/.build/arm64-apple-macosx/debug/Cocoa_SPMTests.build/Cocoa-SPMTests/Cocoa_SPMTests.swift.o",
+    "swiftmodule": "/Users/loydantonyrebeiro/Documents/Cocoa-SPM/.build/arm64-apple-macosx/debug/Cocoa_SPMTests.build/Cocoa-SPMTests/Cocoa_SPMTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/loydantonyrebeiro/Documents/Cocoa-SPM/.build/arm64-apple-macosx/debug/Cocoa_SPMTests.build/Cocoa-SPMTests/Cocoa_SPMTests.swiftdeps"
+  }
+}
